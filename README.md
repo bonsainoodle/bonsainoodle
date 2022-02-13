@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-#### I'm a Developper working in France.
+#### I'm a developper working in France.
 
 ##### NOW
 
 - 🔎 Looking for missions;
 - 🏆 Competing in hackathons;
 - 🤖 Learning ML & deep learning;
-- 📈 Learning blockchain developement
+- 📈 Learning blockchain development
 
 ##### BIO
 
