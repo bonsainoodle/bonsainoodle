@@ -18,6 +18,6 @@
 - 💬 Ping me about **development**, **hackathons**
 - 📫 Reach me: **Bonsaï#8521** on discord
 
-##### Languages
+##### LANGUAGES
 - 🍷 French (native)
-- 🍵 English
+- 🍵 English (fluent)
