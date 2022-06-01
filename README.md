@@ -24,4 +24,4 @@
 - 🍵 English (fluent)
 
 ##### STATS
-<img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=EsprIx&theme=radical&layout=default&show_icons=true" />
+![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api?username=EsprIx&show_icons=true&theme=tokyonight)
