@@ -24,4 +24,4 @@
 - 🍵 English (fluent)
 
 ##### STATS
-![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api?username=EsprIx&show_icons=true&theme=tokyonight)
+![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsainoodle&show_icons=true&theme=tokyonight)
