@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- ✨ I'm currently workin for **Codetivate 2.0** hackathon;
+- ✨ I'm currently working for **Codetivate 2.0** hackathon;
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`
 - 😎 CEO of [good-mood.icu](https://www.good-mood.icu)
 - 💅 Developped: [qreate.store](https://www.qreate.store), [bdaytwin.io](https://bdaytwin.io), [doodling.fr](https://www.doodling.fr), etc…
