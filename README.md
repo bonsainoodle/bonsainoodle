@@ -13,7 +13,7 @@
 
 - ✨ I'm currently working for **Otto Protocol**;
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`
-- 😎 CTO and researcher of [ottoprotocol.fi](https://www.ottoprotocol.fi)
+- 😎 CTO and researcher at [ottoprotocol.fi](https://www.ottoprotocol.fi)
 - 💅 Developped: [qreate.store](https://qreate.bonsainoodle.app), [goodmood.icu](https://goodmood.icu), [doodling.fr](https://www.doodling.fr), etc…
 - 🌱 Craving to learn & meet new people
 - 💬 Ping me about **development**, **hackathons**
