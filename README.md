@@ -11,10 +11,10 @@
 
 ##### BIO
 
-- ✨ I'm currently working for **Codetivate 2.0** hackathon;
+- ✨ I'm currently working for **Otto Protocol**;
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`
-- 😎 CEO of [good-mood.icu](https://www.good-mood.icu)
-- 💅 Developped: [qreate.store](https://www.qreate.store), [bdaytwin.io](https://bdaytwin.io), [doodling.fr](https://www.doodling.fr), etc…
+- 😎 CTO and researcher of [ottoprotocol.fi](https://www.ottoprotocol.fi)
+- 💅 Developped: [qreate.store](https://qreate.bonsainoodle.app), [goodmood.icu](https://goodmood.icu), [doodling.fr](https://www.doodling.fr), etc…
 - 🌱 Craving to learn & meet new people
 - 💬 Ping me about **development**, **hackathons**
 - 📫 Reach me: **Bonsaï#8521** on discord
@@ -24,4 +24,4 @@
 - 🍵 English (fluent)
 
 ##### STATS
-![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsainoodle&show_icons=true&theme=tokyonight)
+![B O N S A Ï GitHub stats](https://github-readme-stats.vercel.app/api?username=bonsainoodle&show_icons=true&theme=tokyonight)
