@@ -12,7 +12,7 @@
 ##### BIO
 
 - ✨ I'm currently working for **Otto Protocol**;
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`
 - 😎 CTO and researcher at [ottoprotocol.fi](https://www.ottoprotocol.fi)
 - 💅 Developped: [qreate.store](https://qreate.bonsainoodle.app), [goodmood.icu](https://goodmood.icu), [doodling.fr](https://www.doodling.fr), etc…
 - 🌱 Craving to learn & meet new people
